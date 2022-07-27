@@ -9,5 +9,6 @@
     <content url="file://$MODULE_DIR$/backend/node_modules/.prisma" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/react" level="application" />
   </component>
 </module>

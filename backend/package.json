@@ -6,8 +6,12 @@
   "private": true,
   "dependencies": {
     "@prisma/client": "^4.1.0",
-    "cors": "^2.8.5",
+    "bcryptjs": "^2.4.3",
+    "date-fns": "^2.29.1",
+    "dateformat": "^5.0.3",
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "qs": "^6.11.0",
     "socket.io": "^2.5.0"
   },
   "scripts": {}

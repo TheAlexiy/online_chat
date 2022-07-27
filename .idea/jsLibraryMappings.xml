@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/react}" />
     <includedPredefinedLibrary name="Node.js Core" />
+    <excludedPredefinedLibrary name="online_chat/backend/node_modules" />
+    <excludedPredefinedLibrary name="online_chat/frontend/node_modules" />
   </component>
 </project>
